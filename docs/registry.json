@@ -2720,6 +2720,16 @@
         {
           "paraID": 2034,
           "nativeChainID": "hydra",
+          "symbol": "GETH",
+          "decimals": 18,
+          "xcmV1MultiLocation": "{\"v1\":{\"parents\":1,\"interior\":{\"x2\":[{\"parachain\":2034},{\"accountKey20\":{\"network\":null,\"key\":\"0x8a598fe3e3a471ce865332e330d303502a0e2f52\"}}]}}}",
+          "asset": "420",
+          "assetHubReserveLocation": "{\"parents\":\"1\",\"interior\":{\"X1\":{\"Parachain\":\"1000\"}}}",
+          "originChainReserveLocation": "{\"parents\":\"0\",\"interior\":{\"Here\":\"\"}}"
+        },
+        {
+          "paraID": 2034,
+          "nativeChainID": "hydra",
           "symbol": "aDOT",
           "decimals": 10,
           "xcmV1MultiLocation": "{\"v1\":{\"parents\":1,\"interior\":{\"x2\":[{\"parachain\":2034},{\"accountKey20\":{\"network\":null,\"key\":\"0x02639ec01313c8775fae74f2dad1118c8a8a86da\"}}]}}}",
@@ -3032,6 +3042,16 @@
           "decimals": 10,
           "xcmV1MultiLocation": "{\"v1\":{\"parents\":1,\"interior\":{\"x2\":[{\"parachain\":2034},{\"accountKey20\":{\"network\":null,\"key\":\"0x0e13b904f4168f93814216b6874ca8349457f263\"}}]}}}",
           "asset": "1005",
+          "assetHubReserveLocation": "{\"parents\":\"1\",\"interior\":{\"X1\":{\"Parachain\":\"1000\"}}}",
+          "originChainReserveLocation": "{\"parents\":\"0\",\"interior\":{\"Here\":\"\"}}"
+        },
+        {
+          "paraID": 2034,
+          "nativeChainID": "hydra",
+          "symbol": "aETH",
+          "decimals": 18,
+          "xcmV1MultiLocation": "{\"v1\":{\"parents\":1,\"interior\":{\"x2\":[{\"parachain\":2034},{\"accountKey20\":{\"network\":null,\"key\":\"0x11a8f7ffbb7e0fbed88bc20179dd45b4bd6874ff\"}}]}}}",
+          "asset": "1007",
           "assetHubReserveLocation": "{\"parents\":\"1\",\"interior\":{\"X1\":{\"Parachain\":\"1000\"}}}",
           "originChainReserveLocation": "{\"parents\":\"0\",\"interior\":{\"Here\":\"\"}}"
         },
