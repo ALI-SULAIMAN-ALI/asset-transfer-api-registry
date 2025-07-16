@@ -6661,6 +6661,7 @@
         "50000255": "TEST",
         "50000256": "NULL",
         "50000257": "OC",
+        "50000258": "FTSO",
         "88888888": "PAA",
         "123456789": "PUSH",
         "193000000": "SRCT",
@@ -7172,6 +7173,14 @@
         "104": {
           "lpToken": "104",
           "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000246\"}]}}]]"
+        },
+        "105": {
+          "lpToken": "105",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"2\",\"interior\":{\"X1\":[{\"GlobalConsensus\":{\"Ethereum\":{\"chainId\":\"11155111\"}}}]}}]]"
+        },
+        "106": {
+          "lpToken": "106",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000258\"}]}}]]"
         }
       },
       "specName": "westmint"
