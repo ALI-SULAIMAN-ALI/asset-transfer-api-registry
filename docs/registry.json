@@ -6662,6 +6662,9 @@
         "50000256": "NULL",
         "50000257": "OC",
         "50000258": "FTSO",
+        "50000259": "WTO",
+        "50000260": "WTT",
+        "50000261": "NB",
         "88888888": "PAA",
         "123456789": "PUSH",
         "193000000": "SRCT",
@@ -7181,6 +7184,14 @@
         "106": {
           "lpToken": "106",
           "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000258\"}]}}]]"
+        },
+        "107": {
+          "lpToken": "107",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000260\"}]}}]]"
+        },
+        "108": {
+          "lpToken": "108",
+          "pairInfo": "[[{\"parents\":\"1\",\"interior\":\"Here\"},{\"parents\":\"0\",\"interior\":{\"X2\":[{\"PalletInstance\":\"50\"},{\"GeneralIndex\":\"50000261\"}]}}]]"
         }
       },
       "specName": "westmint"
