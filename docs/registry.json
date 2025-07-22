@@ -2740,6 +2740,16 @@
         {
           "paraID": 2034,
           "nativeChainID": "hydra",
+          "symbol": "a3-Pool",
+          "decimals": 18,
+          "xcmV1MultiLocation": "{\"v1\":{\"parents\":1,\"interior\":{\"x2\":[{\"parachain\":2034},{\"accountKey20\":{\"network\":null,\"key\":\"0xc09cf2f85367f3c2ab66e094283de3a499cb9108\"}}]}}}",
+          "asset": "1008",
+          "assetHubReserveLocation": "{\"parents\":\"1\",\"interior\":{\"X1\":{\"Parachain\":\"1000\"}}}",
+          "originChainReserveLocation": "{\"parents\":\"0\",\"interior\":{\"Here\":\"\"}}"
+        },
+        {
+          "paraID": 2034,
+          "nativeChainID": "hydra",
           "symbol": "atBTC",
           "decimals": 18,
           "xcmV1MultiLocation": "{\"v1\":{\"parents\":1,\"interior\":{\"x2\":[{\"parachain\":2034},{\"accountKey20\":{\"network\":null,\"key\":\"0x69003a65189f6ed993d3bd3e2b74f1db39f405ce\"}}]}}}",
@@ -6665,6 +6675,7 @@
         "50000259": "WTO",
         "50000260": "WTT",
         "50000261": "NB",
+        "50000262": "TAS",
         "88888888": "PAA",
         "123456789": "PUSH",
         "193000000": "SRCT",
